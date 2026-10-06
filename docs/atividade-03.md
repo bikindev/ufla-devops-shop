@@ -34,6 +34,7 @@ $ sudo -u postgres psql -c "CREATE USER loja WITH PASSWORD 'troque-esta-senha';"
 $ sudo -u postgres psql -c "CREATE DATABASE loja OWNER loja;"
 
 #### 3. Conceder permissão e executar o deploy automatizado
+A senha do banco está definida na linha DATABASE_URL=postgresql://loja:6666@localhost:5432/loja. Altere-a, modificando o valor de '6666'.
 $ chmod +x scripts/deploy.sh scripts/backup.sh
 $ sudo ./scripts/deploy.sh
 
