@@ -1,7 +1,7 @@
 # Patricia Souza Couto
 
 - **GitHub:** @bikindev
-- **Curso e periodo:** Sistemas de Informacao, 10 periodo
+- **Curso e periodo:** Sistemas de Informacao, 9 periodo
 - **Linguagem que voce domina melhor:** Python
 - **Ja usou Linux no dia a dia?** sim
 - **Ja usou Docker?** nunca
