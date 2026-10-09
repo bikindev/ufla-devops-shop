@@ -1,0 +1,32 @@
+# Git
+.git
+.gitignore
+
+# Ambientes virtuais locais
+.venv
+venv
+ENV/
+env/
+
+# Caches do Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Testes e documentação de desenvolvimento
+tests/
+docs/
+
+# Banco de dados local e segredos
+*.db
+*.sqlite3
+.env
+/etc/ufla-shop.env
+
+# Configurações de IDEs e logs
+.vscode/
+.idea/
+*.log
